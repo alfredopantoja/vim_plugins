@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/alfredo/Genius/paisa_finder2/db/migrate'
+let g:netrw_dirhist_2='/home/alfredo/Genius/cheve_makers3/db/migrate'
+let g:netrw_dirhist_3='/home/alfredo/Genius/cheve_makers3'
+let g:netrw_dirhist_4='/home/alfredo/Genius/cheve_makers3/db/migrate'
+let g:netrw_dirhist_5='/home/alfredo/Genius/paisa_finder2/db/migrate'
